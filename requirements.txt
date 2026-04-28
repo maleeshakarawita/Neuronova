@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+one-api
+ibllib
+umap-learn
+numba
+elephant
+similaritymeasures
